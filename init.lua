@@ -6,5 +6,5 @@
 --]]
 
 return {
-    kbdcfg = require("keyboard_layout.kbdcfg")
+    kbdcfg = require("widget.keyboard_layout.kbdcfg")
 }
